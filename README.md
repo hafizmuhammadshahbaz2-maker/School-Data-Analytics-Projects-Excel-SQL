@@ -31,3 +31,6 @@ This project analyzes student performance data of 300 students from Class 6 to C
 
 ## Author
 School Performance Analysis Project
+## Dashboard Preview
+
+![School Performance Dashboard](Dashboard%20Screenshot.png)
