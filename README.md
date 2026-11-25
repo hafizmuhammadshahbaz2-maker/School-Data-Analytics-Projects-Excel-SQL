@@ -25,10 +25,13 @@ This project analyzes student performance data of 300 students from Class 6 to C
 - Bottom 10 Students
 
 ## Key Findings
-- 275 out of 300 students passed, giving an overall pass rate of 91.67%
-  (25 students failed).
-- The average percentage across all students was 62.11%.
-- Average attendance was 82.88%.
+- Overall pass rate was 91.67% (275 of 300 students passed).
+- Class 9 had the lowest pass rate (88.33%); Class 10 had the highest (96.67%).
+- English was the weakest subject (average 56.6 vs. 67.0 in Computer); 15 of the 25 failed students scored below 33 in English.
+- Attendance and performance are positively related (correlation 0.47): students with 90%+ attendance had a 2.6% fail rate, compared to 15.4% for students below 70% attendance.
+- Gender and section had little effect on results.
+
+*Note: The dataset is simulated and created for practice.*
   
 ## Project Files
 - Excel Dashboard
