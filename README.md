@@ -1,4 +1,3 @@
-<img width="1064" height="691" alt="DashBoard" src="https://github.com/user-attachments/assets/1333c2b0-0eeb-4004-864f-3c3056c30ed7" />
 # Project 1: School Student Performance Analysis
 
 Student Performance Analysis using SQL and Excel.
@@ -63,3 +62,4 @@ An automated school fee management system developed using Microsoft Excel to man
 2026–27
 ## Dashboard Preview
 ![Fee Management Dashboard](fee-dashboard.png)
+<img width="1064" height="691" alt="DashBoard" src="https://github.com/user-attachments/assets/1333c2b0-0eeb-4004-864f-3c3056c30ed7" />
