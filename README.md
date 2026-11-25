@@ -39,6 +39,8 @@ This project analyzes student performance data of 300 students from Class 6 to C
 - SQL Queries
 
 ## Author
+HAFIZ MUHAMMAD SHAHBAZ
+hafizmuhammadshahbaz2@gmail.com 
 School Performance Analysis Project
 ## Dashboard Preview
 
