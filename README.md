@@ -61,4 +61,4 @@ An automated school fee management system developed using Microsoft Excel to man
 ### Project Year
 2026–27
 ## Dashboard Preview
-![Dashboard Preview >](<img width="1064" height="691" alt="DashBoard" src="https://github.com/user-attachments/assets/1333c2b0-0eeb-4004-864f-3c3056c30ed7" />)
+![Fee Management Dashboard](DashBoard.png)
