@@ -24,6 +24,12 @@ This project analyzes student performance data of 300 students from Class 6 to C
 - Top 10 Students
 - Bottom 10 Students
 
+## Key Findings
+- 275 out of 300 students passed, giving an overall pass rate of 91.67%
+  (25 students failed).
+- The average percentage across all students was 62.11%.
+- Average attendance was 82.88%.
+  
 ## Project Files
 - Excel Dashboard
 - CSV Dataset
