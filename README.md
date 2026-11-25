@@ -1,4 +1,4 @@
-# School Student Performance Analysis
+# Project 2: School Student Performance Analysis
 
 Student Performance Analysis using SQL and Excel.
 
